@@ -11,7 +11,7 @@
 
 <a name="objetivo">
     <h2>🚀 Objetivo</h2>
-    <p>O objetivo aqui é repassar todo o conteúdo proposto de exercicios e estudos da materia de <strong>LINGUAGEM DE PROGRAMAÇÃO IV</strong></p>
+    <p>O objetivo aqui é repassar todo o conteúdo proposto de exercicios e estudos da materia de <br/><strong>LINGUAGEM DE PROGRAMAÇÃO IV</strong></p>
 </a>
 
 <a name="status">
