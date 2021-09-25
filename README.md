@@ -21,8 +21,7 @@
         <ul style="list-style-type:circle">
           <li><p>Attributes, Formatting, Headings, Paragraphs, </p></li>
           <li><p>How To, Selectors, Tables, Images, Video</p></li>
-          <li><p>Links, IFrame, Layout, Lists</p></li>
-          <li><p>Forms, Inputs</p></li>
+          <li><p>Links, IFrame, Layout, Lists, Forms, Inputs</p></li>
         </ul>
       </li>
       <li>CSS ✔️<br/>
