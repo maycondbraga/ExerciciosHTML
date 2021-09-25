@@ -22,13 +22,15 @@
           <li><p>Attributes, Formatting, Headings, Paragraphs, </p></li>
           <li><p>How To, Selectors, Tables, Images, Video</p></li>
           <li><p>Links, IFrame, Layout, Lists</p></li>
+          <li><p>Forms, Inputs</p></li>
         </ul>
       </li>
       <li>CSS ✔️<br/>
         <ul style="list-style-type:circle">
           <li><p>Styles, Outline, BoxModel, Tables, Lists</p></li>
           <li><p>Margin, Color, Padding, Background</p></li>
-          <li><p>Links</p></li>
+          <li><p>Links, Box Model, Outline, Layout</p></li>
+          <li><p>Text, Rounded Corners, Borders</p></li>
         </ul>
       </li>
       <li>🚧 Atualizando... 🚧</li>
